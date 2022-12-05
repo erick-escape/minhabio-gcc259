@@ -1,6 +1,6 @@
 # Érick de Castro Silva
 
-![Érick Lindo]([[https://drive.google.com/file/d/1_G4i4jSBh4Ne_f_EnBpLECpXEYqOO2Vv/view?usp=share_link]] "Érick Lindo")
+![Érick Lindo](Érick.png "Érick Lindo")
 
 ### Formação Acadêmica
 
